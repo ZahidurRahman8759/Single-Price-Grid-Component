@@ -31,9 +31,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [HTML](https://your-solution-url.com)
-- Solution URL: [CSS](https://your-solution-url.com)
-- Live Site URL: [LIVE SITE](https://your-live-site-url.com)
+- Solution URL: [HTML](https://github.com/ZahidurRahman8759/Single-Price-Grid-Component/blob/700a7c87510315ee05d78b14a06e66a5a5dfcfd0/index.html)
+- Solution URL: [CSS](https://github.com/ZahidurRahman8759/Single-Price-Grid-Component/blob/700a7c87510315ee05d78b14a06e66a5a5dfcfd0/style.css)
+- Live Site URL: [LIVE SITE](https://zahidurrahman8759.github.io/Single-Price-Grid-Component/)
 
 ## My process
 
@@ -47,9 +47,9 @@ Users should be able to:
 
 ### What I learned
 
-This was my frist project with Grid from Front End Mentor. It was fun to achieve to work with grid. I learned how to align items with grid and also how to add box-shadow in grid container.
+This was my first project with Grid from Front End Mentor. It was fun to work with the grid. I learned how to align items with the grid and also how to add box-shadow in a grid container.
 
-Here is a code of my grid container that inculeds the alignments and shadow property:
+Here is a code of my grid container that includes the alignments and shadow property:
 
 ```css
 body {
